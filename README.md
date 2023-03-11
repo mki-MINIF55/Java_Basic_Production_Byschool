@@ -1,5 +1,7 @@
 # Java_Basic_Production_Byschool
 学校の卒業制作です。 JavaでCSVﾃﾞｰﾀを読み取りﾃﾞｰﾀのﾒﾆｭｰ表示と検索をするｱﾌﾟﾘｹｰｼｮﾝを作成しました。 Arrayの配列を利用しています。 また、検索にあっては、CSVﾃﾞｰﾀが多くないため配列検索を選択しました。
+This is a graduation project for a school,
+where a CSV was read and an array of array lists was used to create a menu display and parallel search.
 [【卒業s_s】MUsicalGrammer計画.pdf](https://github.com/mki-MINIF55/Java_Basic_Production_Byschool/files/10947290/s_s.MUsicalGrammer.pdf)
 	
   【MusicalGrammer 作成計画書】		
