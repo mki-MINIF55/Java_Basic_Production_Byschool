@@ -26,4 +26,5 @@
 1	16	kotlinプログラムを適宜変更 csv読み書き パッケージ等	
 1	17	スマホで動作確認	
 1	18	実装	
-![image](https://user-images.githubusercontent.com/127565700/224458231-7ca579a9-1920-4e57-b48b-8f0304ddf6e9.png)
+
+2022_12_6作成
