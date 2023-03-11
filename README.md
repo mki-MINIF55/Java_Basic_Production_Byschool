@@ -8,7 +8,9 @@ where a CSV was read and an array of array lists was used to create a menu displ
   【MusicalGrammer 作成計画書】		
 	目的	バイオリン練習にあって、課題曲が変わるたび調を調べるのが面倒。 簡単に記号から検索し情報を引き出したい	
 	詳細	記号、調名検索で全ての知りたい情報を出力できる	
-済 = 1	作成計画		
+
+済 = 1	作成計画
+
 1	1	Excel db作成	
 
 1	2	楽典.xlsxへ調の情報入力	
