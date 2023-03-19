@@ -51,6 +51,7 @@ where a CSV was read and an array of array lists was used to create a menu displ
 
 
 Kotlinにあっては、ハードコーティングです…。 勉強不足です。
+※このﾃﾞｨﾚｸﾄﾘ内にはKotolinのｺｰﾃﾞｨﾝｸﾞしたﾌｧｲﾙ、ﾌﾟﾛｼﾞｪｸﾄﾌｫﾙﾀﾞは無いです。 別ﾘﾎﾟｼﾞﾄﾘの「Gakukey_2022」をご覧ください。
 
 2022_12_6作成
 
