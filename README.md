@@ -37,7 +37,7 @@ where a CSV was read and an array of array lists was used to create a menu displ
 
 1	12	aws 無料サーバを使えるようにする	
 
-1	13	aws 無料サーバ 動作確認	
+1	13	aws 無料サーバ 動作確認 EC2使用 終了したら必ずpublicIDは開放すること
 
 1	14	動作確認後 楽典csvのエクセルを置く	
 
